@@ -1,7 +1,7 @@
 #+TITLE: myCalc
 #+CAPTION: My novice approach to pyqt5
 #+ATTR_HTML: :alt myCalc :title myCalc :align left
-[[https://raw.githubusercontent.com/knsrinath/swayrice/main/screenshot-2021-06-11-15%3A04%3A50.png]]
+[[https://i.imgur.com/eQUmAkQ.png]]
 
 * How to run it?
 
