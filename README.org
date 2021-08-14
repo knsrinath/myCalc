@@ -6,6 +6,6 @@
 * How to run it?
 
 #+begin_example
-$ git clone https://github.com/knsrinath/swayrice
+$ git clone https://github.com/knsrinath/myCalc
 $ python /path/to/main.py
 #+end_example
